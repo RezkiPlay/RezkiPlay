@@ -1,0 +1,15 @@
+def hitung_winrate(kemenangan, total_pertandingan):
+    if total_pertandingan == 0:
+        return 0  # Menghindari pembagian dengan nol
+    winrate = (kemenangan / total_pertandingan) * 100
+    return round(winrate, 2)  # Pembulatan winrate hingga dua angka di belakang koma
+
+# Input dari pengguna
+kemenangan = int(input("Masukkan jumlah kemenangan: "))
+total_pertandingan = int(input("Masukkan total pertandingan: "))
+
+# Menghitung winrate
+winrate = hitung_winrate(kemenangan, total_pertandingan)
+
+# Output hasil winrate
+print(f"Winrate Anda adalah: {winrate}%")
