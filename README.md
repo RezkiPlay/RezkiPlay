@@ -11,7 +11,7 @@
 ### 👤 About Me
 Hi there! I’m Muhammad Rezki, a content creator, livestreamer, and digital enthusiast from Sungguminasa, Indonesia. My work revolves around exploring various aspects of the digital world, especially through social media and creative content development. I have a strong passion for combining **technology and art** to create captivating experiences for audiences.
 
-I'm known for being **sociable, team-oriented**, and constantly seeking feedback for improvement. My journey in content creation has taught me the value of adaptability, and I’m always eager to learn and stay updated with industry trends.
+I'm known for being **sociable**, and constantly seeking feedback for improvement. My journey in content creation has taught me the value of adaptability, and I’m always eager to learn and stay updated with industry trends.
 
 ---
 
@@ -20,11 +20,11 @@ Here are some of the skills and tools I’m proficient in:
 
 #### 🎨 Design & Creativity
 - **Graphic Design**: Adobe Photoshop, Adobe Illustrator
-- **Video Editing**: Adobe Premiere Pro, Final Cut Pro
+- **Video Editing**: Adobe Premiere Pro, Alight Motion, After Effect, Davinci Resolve
 
 #### 💻 Programming & Web Development
-- **Front-End Development**: HTML, CSS, JavaScript
-- **Scripting**: Python
+- **Front-End Development**: HTML, CSS, JavaScript, ReactJS
+- **Scripting**: Python, C++, Sourcemod1, skriptlang
 
 #### 📣 Content Creation & Livestreaming
 - **Livestreaming Platforms**: TikTok, YouTube
@@ -45,7 +45,7 @@ I’m on a journey to continue growing, learning, and making a positive impact i
 I'm always open to connecting with like-minded people. Feel free to reach out!
 
 - **Email**: [rezkiplayhere@gmail.com](mailto:reziplayhere@gmail.com)
-- **LinkedIn**: [linkedin.com/in/your-username](https://www.linkedin.com/in/your-username)
+- **LinkedIn**: [linkedin.com/in/RezkiPlay](https://www.linkedin.com/in/your-username)
 - **TikTok**: [@rezkiplay](https://www.tiktok.com/@your-tiktok-handle)
   
 <p align="center">
