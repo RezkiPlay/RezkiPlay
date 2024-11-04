@@ -44,9 +44,9 @@ I’m on a journey to continue growing, learning, and making a positive impact i
 ### 📫 Let's Connect!
 I'm always open to connecting with like-minded people. Feel free to reach out!
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [rezkiplayhere@gmail.com](mailto:reziplayhere@gmail.com)
 - **LinkedIn**: [linkedin.com/in/your-username](https://www.linkedin.com/in/your-username)
-- **TikTok**: [@your-tiktok-handle](https://www.tiktok.com/@your-tiktok-handle)
+- **TikTok**: [@rezkiplay](https://www.tiktok.com/@your-tiktok-handle)
   
 <p align="center">
   <img src="https://img.shields.io/github/followers/your-username?label=Follow%20Me&style=social" />
