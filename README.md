@@ -1,8 +1,59 @@
-<h1 align="center">Hi, I'm RezkiPlay</h1>
-<h3 align="center">Junior Website and Software developer</h3>
+<h1 align="center">Hello, I'm Muhammad Rezki L. 👋</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> Currently not avaible :D</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Content%20Creator-Digital%20Explorer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Designer-Graphic%20&%20Video-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Livestreaming-Host-red?style=for-the-badge" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
+
+### 👤 About Me
+Hi there! I’m Muhammad Rezki, a content creator, livestreamer, and digital enthusiast from Sungguminasa, Indonesia. My work revolves around exploring various aspects of the digital world, especially through social media and creative content development. I have a strong passion for combining **technology and art** to create captivating experiences for audiences.
+
+I'm known for being **sociable, team-oriented**, and constantly seeking feedback for improvement. My journey in content creation has taught me the value of adaptability, and I’m always eager to learn and stay updated with industry trends.
+
+---
+
+### 🛠️ Skills
+Here are some of the skills and tools I’m proficient in:
+
+#### 🎨 Design & Creativity
+- **Graphic Design**: Adobe Photoshop, Adobe Illustrator
+- **Video Editing**: Adobe Premiere Pro, Final Cut Pro
+
+#### 💻 Programming & Web Development
+- **Front-End Development**: HTML, CSS, JavaScript
+- **Scripting**: Python
+
+#### 📣 Content Creation & Livestreaming
+- **Livestreaming Platforms**: TikTok, YouTube
+- **Social Media Strategies**: Content planning, engagement tactics, and audience analysis
+
+#### 🤝 Soft Skills
+- **Team Collaboration**: Effective communication, feedback-driven
+- **Growth Mindset**: Always learning, adapting, and evolving
+
+---
+
+### 🎯 Goals & Vision
+I’m on a journey to continue growing, learning, and making a positive impact in the digital space. Whether through **inspiring content**, **creative designs**, or **interactive livestreams**, I strive to connect with audiences and deliver value. My ultimate goal is to blend creativity and technology in ways that resonate with people and push the boundaries of digital content.
+
+---
+
+### 📫 Let's Connect!
+I'm always open to connecting with like-minded people. Feel free to reach out!
+
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [linkedin.com/in/your-username](https://www.linkedin.com/in/your-username)
+- **TikTok**: [@your-tiktok-handle](https://www.tiktok.com/@your-tiktok-handle)
+  
+<p align="center">
+  <img src="https://img.shields.io/github/followers/your-username?label=Follow%20Me&style=social" />
+</p>
+
+---
+
+> "Creativity is intelligence having fun." – Albert Einstein
+
+Thank you for visiting my profile! 😊 Let’s create something amazing together.
