@@ -24,7 +24,7 @@ Here are some of the skills and tools I’m proficient in:
 
 #### 💻 Programming & Web Development
 - **Front-End Development**: HTML, CSS, JavaScript, ReactJS
-- **Scripting**: Python, C++, Sourcemod1, skriptlang
+- **Scripting**: Python, C++, Sourcemod1, skriptlang, bedrock definition
 
 #### 📣 Content Creation & Livestreaming
 - **Livestreaming Platforms**: TikTok, YouTube
