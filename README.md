@@ -9,7 +9,7 @@
 ---
 
 ### 👤 About Me
-Hi there! I’m Muhammad Rezki, a content creator, livestreamer, and digital enthusiast from Sungguminasa, Indonesia. My work revolves around exploring various aspects of the digital world, especially through social media and creative content development. I have a strong passion for combining **technology and art** to create captivating experiences for audiences.
+Hi there! I’m Muhammad Rezki, a content creator, livestreamer, and digital enthusiast from Sungguminasa, Indonesia. My work revolves around exploring various aspects of the digital world, especially through social media and creative content development. I have a strong passion for combining **technology and art** to create captivating experiences for audiences..
 
 I'm known for being **sociable**, and constantly seeking feedback for improvement. My journey in content creation has taught me the value of adaptability, and I’m always eager to learn and stay updated with industry trends.
 
