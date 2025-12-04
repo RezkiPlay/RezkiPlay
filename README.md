@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is RezkiPlay and I'm a Full Stack Developer & Creative Designer, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is RezkiPlay and I'm a Machine Learning Engineer and Full Stack Developer, from Indonesia</h2>
 
 ###
 
