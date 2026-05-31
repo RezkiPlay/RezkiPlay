@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 🌐 [www.rezkiplay.my.id](https://www.rezkiplay.my.id)
+### 🌐 [www.rezkiplay.com](https://www.rezkiplay.com)
 
 </div>
 
